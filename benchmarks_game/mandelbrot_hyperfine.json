@@ -1,0 +1,172 @@
+{
+  "results": [
+    {
+      "command": "~/local_install/cpython310/bin/python3 mandelbrot/mandelbrot.python3-7.python3  1000 > /dev/null",
+      "mean": 0.6197475596200002,
+      "stddev": 0.004214136547671632,
+      "median": 0.62068221702,
+      "user": 4.527232499999999,
+      "system": 0.07493578000000001,
+      "min": 0.6150130750200001,
+      "max": 0.6253894620200001,
+      "times": [
+        0.62068221702,
+        0.62149290302,
+        0.6150130750200001,
+        0.61616014102,
+        0.6253894620200001
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "parameters": {
+        "N": "1000",
+        "python_version": "310"
+      }
+    },
+    {
+      "command": "~/local_install/cpython310/bin/python3 mandelbrot/mandelbrot.python3-7.python3  4000 > /dev/null",
+      "mean": 9.05123577862,
+      "stddev": 0.05639839929859919,
+      "median": 9.029797476019999,
+      "user": 70.98777270000001,
+      "system": 0.44062658,
+      "min": 9.01086850502,
+      "max": 9.15048194402,
+      "times": [
+        9.03896916402,
+        9.029797476019999,
+        9.15048194402,
+        9.02606180402,
+        9.01086850502
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "parameters": {
+        "N": "4000",
+        "python_version": "310"
+      }
+    },
+    {
+      "command": "~/local_install/cpython311/bin/python3 mandelbrot/mandelbrot.python3-7.python3  1000 > /dev/null",
+      "mean": 0.54096731182,
+      "stddev": 0.00353182402453847,
+      "median": 0.5402248700200001,
+      "user": 3.8815090999999997,
+      "system": 0.08452978,
+      "min": 0.5368627260200001,
+      "max": 0.54609092002,
+      "times": [
+        0.54609092002,
+        0.5368627260200001,
+        0.5425906500200001,
+        0.5402248700200001,
+        0.5390673930200001
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "parameters": {
+        "N": "1000",
+        "python_version": "311"
+      }
+    },
+    {
+      "command": "~/local_install/cpython311/bin/python3 mandelbrot/mandelbrot.python3-7.python3  4000 > /dev/null",
+      "mean": 7.74709249242,
+      "stddev": 0.07617871507667168,
+      "median": 7.78089652602,
+      "user": 60.614469699999994,
+      "system": 0.43332218000000006,
+      "min": 7.61341767302,
+      "max": 7.794567718020001,
+      "times": [
+        7.75634075802,
+        7.79023978702,
+        7.78089652602,
+        7.794567718020001,
+        7.61341767302
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "parameters": {
+        "N": "4000",
+        "python_version": "311"
+      }
+    },
+    {
+      "command": "~/local_install/cpython312/bin/python3 mandelbrot/mandelbrot.python3-7.python3  1000 > /dev/null",
+      "mean": 0.5791942172200001,
+      "stddev": 0.005300364633172594,
+      "median": 0.5804037460200001,
+      "user": 4.186327499999999,
+      "system": 0.056858179999999994,
+      "min": 0.57351648202,
+      "max": 0.5846932880200001,
+      "times": [
+        0.57351648202,
+        0.5804037460200001,
+        0.5846932880200001,
+        0.5737846710200001,
+        0.5835728990200001
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "parameters": {
+        "N": "1000",
+        "python_version": "312"
+      }
+    },
+    {
+      "command": "~/local_install/cpython312/bin/python3 mandelbrot/mandelbrot.python3-7.python3  4000 > /dev/null",
+      "mean": 8.403900058419998,
+      "stddev": 0.12797544655659895,
+      "median": 8.33143996402,
+      "user": 65.7447579,
+      "system": 0.50495058,
+      "min": 8.29034143202,
+      "max": 8.55923912202,
+      "times": [
+        8.33143996402,
+        8.52592631402,
+        8.31255346002,
+        8.29034143202,
+        8.55923912202
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "parameters": {
+        "N": "4000",
+        "python_version": "312"
+      }
+    }
+  ]
+}

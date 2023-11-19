@@ -1,0 +1,172 @@
+{
+  "results": [
+    {
+      "command": "~/local_install/cpython310/bin/python3 knucleotide/knucleotide.python3-8.python3  2500000 > /dev/null",
+      "mean": 0.043812684940000006,
+      "stddev": 0.000322987824704275,
+      "median": 0.043729695140000004,
+      "user": 0.04185947999999999,
+      "system": 0.01666374,
+      "min": 0.043509827140000006,
+      "max": 0.044156950140000005,
+      "times": [
+        0.04351780914,
+        0.04414914314,
+        0.043729695140000004,
+        0.043509827140000006,
+        0.044156950140000005
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "parameters": {
+        "N": "2500000",
+        "python_version": "310"
+      }
+    },
+    {
+      "command": "~/local_install/cpython310/bin/python3 knucleotide/knucleotide.python3-8.python3  25000000 > /dev/null",
+      "mean": 0.04379689494000001,
+      "stddev": 0.0005552801094526078,
+      "median": 0.043545820140000004,
+      "user": 0.04176048,
+      "system": 0.016841139999999998,
+      "min": 0.043362867140000004,
+      "max": 0.04466987614,
+      "times": [
+        0.043545820140000004,
+        0.04338500914,
+        0.04466987614,
+        0.044020902140000005,
+        0.043362867140000004
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "parameters": {
+        "N": "25000000",
+        "python_version": "310"
+      }
+    },
+    {
+      "command": "~/local_install/cpython311/bin/python3 knucleotide/knucleotide.python3-8.python3  2500000 > /dev/null",
+      "mean": 0.04510597214,
+      "stddev": 0.00023265698997988423,
+      "median": 0.04504455914,
+      "user": 0.04567948,
+      "system": 0.01465734,
+      "min": 0.04490572014,
+      "max": 0.04548865214,
+      "times": [
+        0.04494830914,
+        0.04514262014,
+        0.04490572014,
+        0.04548865214,
+        0.04504455914
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "parameters": {
+        "N": "2500000",
+        "python_version": "311"
+      }
+    },
+    {
+      "command": "~/local_install/cpython311/bin/python3 knucleotide/knucleotide.python3-8.python3  25000000 > /dev/null",
+      "mean": 0.04562103574,
+      "stddev": 0.0006958865544708417,
+      "median": 0.045366891140000004,
+      "user": 0.04492168,
+      "system": 0.01579494,
+      "min": 0.04480153814,
+      "max": 0.04635085314,
+      "times": [
+        0.04480153814,
+        0.04524107614,
+        0.045366891140000004,
+        0.04634482014,
+        0.04635085314
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "parameters": {
+        "N": "25000000",
+        "python_version": "311"
+      }
+    },
+    {
+      "command": "~/local_install/cpython312/bin/python3 knucleotide/knucleotide.python3-8.python3  2500000 > /dev/null",
+      "mean": 0.04902329574000001,
+      "stddev": 0.00032972125421831805,
+      "median": 0.04896278114,
+      "user": 0.04971727999999999,
+      "system": 0.014100940000000001,
+      "min": 0.04865679614,
+      "max": 0.04943609614,
+      "times": [
+        0.04943609614,
+        0.04896278114,
+        0.04865679614,
+        0.049281774140000005,
+        0.048779031140000005
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "parameters": {
+        "N": "2500000",
+        "python_version": "312"
+      }
+    },
+    {
+      "command": "~/local_install/cpython312/bin/python3 knucleotide/knucleotide.python3-8.python3  25000000 > /dev/null",
+      "mean": 0.04892554474000001,
+      "stddev": 0.0002738263007205473,
+      "median": 0.04902790714,
+      "user": 0.05041527999999999,
+      "system": 0.01359654,
+      "min": 0.04856772614,
+      "max": 0.04920027314,
+      "times": [
+        0.04920027314,
+        0.04856772614,
+        0.049122971140000006,
+        0.048708846140000005,
+        0.04902790714
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "parameters": {
+        "N": "25000000",
+        "python_version": "312"
+      }
+    }
+  ]
+}

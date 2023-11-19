@@ -1,0 +1,172 @@
+{
+  "results": [
+    {
+      "command": "~/local_install/cpython310/bin/python3 binarytrees/binarytrees.python3-5.python3  14 > /dev/null",
+      "mean": 0.25666337526,
+      "stddev": 0.004320839186616024,
+      "median": 0.25794774406,
+      "user": 1.2647264,
+      "system": 0.0382086,
+      "min": 0.25135842406000003,
+      "max": 0.26135447706000003,
+      "times": [
+        0.26135447706000003,
+        0.25794774406,
+        0.25969377006,
+        0.25135842406000003,
+        0.25296246106000003
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "parameters": {
+        "N": "14",
+        "python_version": "310"
+      }
+    },
+    {
+      "command": "~/local_install/cpython310/bin/python3 binarytrees/binarytrees.python3-5.python3  21 > /dev/null",
+      "mean": 37.66286060766,
+      "stddev": 0.12143002610153256,
+      "median": 37.60022277106,
+      "user": 252.4131836,
+      "system": 2.53507,
+      "min": 37.55503413506,
+      "max": 37.82494778906,
+      "times": [
+        37.75957920906,
+        37.82494778906,
+        37.55503413506,
+        37.60022277106,
+        37.57451913406
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "parameters": {
+        "N": "21",
+        "python_version": "310"
+      }
+    },
+    {
+      "command": "~/local_install/cpython311/bin/python3 binarytrees/binarytrees.python3-5.python3  14 > /dev/null",
+      "mean": 0.18647742466,
+      "stddev": 0.0036788847122572054,
+      "median": 0.18532111806,
+      "user": 0.8593254,
+      "system": 0.042254799999999995,
+      "min": 0.18210680206000002,
+      "max": 0.19203042306,
+      "times": [
+        0.18210680206000002,
+        0.19203042306,
+        0.18766047806,
+        0.18526830206,
+        0.18532111806
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "parameters": {
+        "N": "14",
+        "python_version": "311"
+      }
+    },
+    {
+      "command": "~/local_install/cpython311/bin/python3 binarytrees/binarytrees.python3-5.python3  21 > /dev/null",
+      "mean": 27.493133701660003,
+      "stddev": 0.20934653282787538,
+      "median": 27.59240656306,
+      "user": 179.09215619999998,
+      "system": 2.6552654,
+      "min": 27.25607940906,
+      "max": 27.69597374806,
+      "times": [
+        27.64225467406,
+        27.25607940906,
+        27.69597374806,
+        27.27895411406,
+        27.59240656306
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "parameters": {
+        "N": "21",
+        "python_version": "311"
+      }
+    },
+    {
+      "command": "~/local_install/cpython312/bin/python3 binarytrees/binarytrees.python3-5.python3  14 > /dev/null",
+      "mean": 0.18879786186,
+      "stddev": 0.0028306720736013774,
+      "median": 0.18790174206000002,
+      "user": 0.849261,
+      "system": 0.038273999999999996,
+      "min": 0.18603813806,
+      "max": 0.19228010106,
+      "times": [
+        0.19228010106,
+        0.18648772306,
+        0.18790174206000002,
+        0.19128160506,
+        0.18603813806
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "parameters": {
+        "N": "14",
+        "python_version": "312"
+      }
+    },
+    {
+      "command": "~/local_install/cpython312/bin/python3 binarytrees/binarytrees.python3-5.python3  21 > /dev/null",
+      "mean": 27.729587439459998,
+      "stddev": 0.08340154228081811,
+      "median": 27.75185343706,
+      "user": 180.43851339999998,
+      "system": 2.6209119999999997,
+      "min": 27.60461871406,
+      "max": 27.81824965006,
+      "times": [
+        27.75185343706,
+        27.77991333506,
+        27.69330206106,
+        27.60461871406,
+        27.81824965006
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "parameters": {
+        "N": "21",
+        "python_version": "312"
+      }
+    }
+  ]
+}

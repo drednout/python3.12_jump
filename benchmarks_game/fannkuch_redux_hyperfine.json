@@ -1,0 +1,172 @@
+{
+  "results": [
+    {
+      "command": "~/local_install/cpython310/bin/python3 fannkuchredux/fannkuchredux.python3-6.python3  10 > /dev/null",
+      "mean": 5.307542302940001,
+      "stddev": 0.098946796185736,
+      "median": 5.29032584734,
+      "user": 5.306902440000001,
+      "system": 0.0008623839999999999,
+      "min": 5.214598291340001,
+      "max": 5.44502917534,
+      "times": [
+        5.214598291340001,
+        5.367875289340001,
+        5.21988291134,
+        5.44502917534,
+        5.29032584734
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "parameters": {
+        "N": "10",
+        "python_version": "310"
+      }
+    },
+    {
+      "command": "~/local_install/cpython310/bin/python3 fannkuchredux/fannkuchredux.python3-6.python3  11 > /dev/null",
+      "mean": 66.16827629874,
+      "stddev": 0.41892962857425764,
+      "median": 66.14789750834,
+      "user": 66.16094244,
+      "system": 0.006380736,
+      "min": 65.77285228834,
+      "max": 66.84073747533999,
+      "times": [
+        66.14789750834,
+        65.86660943934,
+        65.77285228834,
+        66.21328478234,
+        66.84073747533999
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "parameters": {
+        "N": "11",
+        "python_version": "310"
+      }
+    },
+    {
+      "command": "~/local_install/cpython311/bin/python3 fannkuchredux/fannkuchredux.python3-6.python3  10 > /dev/null",
+      "mean": 4.43244319354,
+      "stddev": 0.04093848787906823,
+      "median": 4.42120946234,
+      "user": 4.43025124,
+      "system": 0.002273536,
+      "min": 4.39471545434,
+      "max": 4.484932386340001,
+      "times": [
+        4.465269232340001,
+        4.484932386340001,
+        4.39608943234,
+        4.42120946234,
+        4.39471545434
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "parameters": {
+        "N": "10",
+        "python_version": "311"
+      }
+    },
+    {
+      "command": "~/local_install/cpython311/bin/python3 fannkuchredux/fannkuchredux.python3-6.python3  11 > /dev/null",
+      "mean": 55.78962245294,
+      "stddev": 1.2939714971319582,
+      "median": 55.60098496234,
+      "user": 55.78550223999999,
+      "system": 0.003186136,
+      "min": 54.75347006834,
+      "max": 57.98629533034,
+      "times": [
+        54.75347006834,
+        54.92249657434,
+        55.68486532934,
+        57.98629533034,
+        55.60098496234
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "parameters": {
+        "N": "11",
+        "python_version": "311"
+      }
+    },
+    {
+      "command": "~/local_install/cpython312/bin/python3 fannkuchredux/fannkuchredux.python3-6.python3  10 > /dev/null",
+      "mean": 4.4362865857400005,
+      "stddev": 0.01253733571358088,
+      "median": 4.43818809534,
+      "user": 4.43502644,
+      "system": 0.001533984,
+      "min": 4.416441814340001,
+      "max": 4.45086849034,
+      "times": [
+        4.4354150933400005,
+        4.45086849034,
+        4.440519435340001,
+        4.416441814340001,
+        4.43818809534
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "parameters": {
+        "N": "10",
+        "python_version": "312"
+      }
+    },
+    {
+      "command": "~/local_install/cpython312/bin/python3 fannkuchredux/fannkuchredux.python3-6.python3  11 > /dev/null",
+      "mean": 55.47430095474,
+      "stddev": 0.10096297349232702,
+      "median": 55.43577396234,
+      "user": 55.46883383999999,
+      "system": 0.004604952,
+      "min": 55.36406829834,
+      "max": 55.59746276934,
+      "times": [
+        55.43577396234,
+        55.56339555734,
+        55.41080418634,
+        55.36406829834,
+        55.59746276934
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "parameters": {
+        "N": "11",
+        "python_version": "312"
+      }
+    }
+  ]
+}

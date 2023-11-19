@@ -1,0 +1,172 @@
+{
+  "results": [
+    {
+      "command": "~/local_install/cpython310/bin/python3 spectralnorm/spectralnorm.python3-8.python3  500 > /dev/null",
+      "mean": 0.9631182435200001,
+      "stddev": 0.019479908429292876,
+      "median": 0.9604565143200001,
+      "user": 3.42888122,
+      "system": 0.03853802,
+      "min": 0.9346375773200001,
+      "max": 0.98421439032,
+      "times": [
+        0.9346375773200001,
+        0.9580388133200001,
+        0.9604565143200001,
+        0.98421439032,
+        0.97824392232
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "parameters": {
+        "N": "500",
+        "python_version": "310"
+      }
+    },
+    {
+      "command": "~/local_install/cpython310/bin/python3 spectralnorm/spectralnorm.python3-8.python3  3000 > /dev/null",
+      "mean": 24.466503630720002,
+      "stddev": 0.08430668167641052,
+      "median": 24.42728485932,
+      "user": 96.65607581999998,
+      "system": 0.05543042,
+      "min": 24.37336514732,
+      "max": 24.57356056332,
+      "times": [
+        24.42728485932,
+        24.42242488732,
+        24.37336514732,
+        24.57356056332,
+        24.535882696319998
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "parameters": {
+        "N": "3000",
+        "python_version": "310"
+      }
+    },
+    {
+      "command": "~/local_install/cpython311/bin/python3 spectralnorm/spectralnorm.python3-8.python3  500 > /dev/null",
+      "mean": 0.7398162929200001,
+      "stddev": 0.01504594804614829,
+      "median": 0.73851809932,
+      "user": 2.63826642,
+      "system": 0.02265902,
+      "min": 0.7193972713200001,
+      "max": 0.76171289032,
+      "times": [
+        0.7193972713200001,
+        0.73851809932,
+        0.73780002532,
+        0.76171289032,
+        0.7416531783200001
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "parameters": {
+        "N": "500",
+        "python_version": "311"
+      }
+    },
+    {
+      "command": "~/local_install/cpython311/bin/python3 spectralnorm/spectralnorm.python3-8.python3  3000 > /dev/null",
+      "mean": 19.387059926720003,
+      "stddev": 0.21986852599905107,
+      "median": 19.33508015632,
+      "user": 76.60818042000001,
+      "system": 0.04879621999999999,
+      "min": 19.21221310132,
+      "max": 19.75370624032,
+      "times": [
+        19.75370624032,
+        19.21221310132,
+        19.22801233732,
+        19.33508015632,
+        19.40628779832
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "parameters": {
+        "N": "3000",
+        "python_version": "311"
+      }
+    },
+    {
+      "command": "~/local_install/cpython312/bin/python3 spectralnorm/spectralnorm.python3-8.python3  500 > /dev/null",
+      "mean": 0.8021320707200001,
+      "stddev": 0.011274216777049454,
+      "median": 0.8038698923200001,
+      "user": 2.8312782199999997,
+      "system": 0.031200419999999996,
+      "min": 0.7864028393200001,
+      "max": 0.81732855632,
+      "times": [
+        0.7864028393200001,
+        0.7979002193200001,
+        0.80515884632,
+        0.81732855632,
+        0.8038698923200001
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "parameters": {
+        "N": "500",
+        "python_version": "312"
+      }
+    },
+    {
+      "command": "~/local_install/cpython312/bin/python3 spectralnorm/spectralnorm.python3-8.python3  3000 > /dev/null",
+      "mean": 21.603598722519997,
+      "stddev": 0.41667271420561447,
+      "median": 21.47324201932,
+      "user": 85.30014062,
+      "system": 0.04733381999999999,
+      "min": 21.25297785632,
+      "max": 22.288923656319998,
+      "times": [
+        21.25297785632,
+        21.47324201932,
+        22.288923656319998,
+        21.68029308332,
+        21.32255699732
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "parameters": {
+        "N": "3000",
+        "python_version": "312"
+      }
+    }
+  ]
+}
